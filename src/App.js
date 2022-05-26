@@ -1,7 +1,7 @@
 import React from 'react';
 import { Document, Page } from 'react-pdf';
 import pdfFile from './Mani.pdf';
-import Mani1 from './public/images/Mani1.jpg';
+import Mani1 from './images/Mani1.jpg';
   
 function App() {
   
